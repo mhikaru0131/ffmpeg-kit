@@ -11,3 +11,9 @@ dependencies:
     path: ../flutter
   ffmpeg_kit_flutter_platform_interface:
     path: ../flutter_platform_interface
+
+dependency_overrides:
+  ffmpeg_kit_flutter:
+    path: ../ffmpeg-kit/flutter/ffmpeg_kit_flutter
+  ffmpeg_kit_flutter_platform_interface:
+    path: ../ffmpeg-kit/flutter/ffmpeg_kit_flutter_platform_interface
