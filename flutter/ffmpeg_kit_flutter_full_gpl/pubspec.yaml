@@ -1,1 +1,14 @@
+name: ffmpeg_kit_flutter_full_gpl
+description: Forked and patched version for Flutter Android embedding v2.
+version: 6.0.3
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ffmpeg_kit_flutter:
+    path: ../flutter
+  ffmpeg_kit_flutter_platform_interface:
+    path: ../flutter_platform_interface
 
