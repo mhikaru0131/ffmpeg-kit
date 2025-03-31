@@ -1,0 +1,1 @@
+library ffmpeg_kit_flutter_full_gpl;
